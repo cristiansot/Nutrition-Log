@@ -13,8 +13,8 @@ function NutritionDashboard() {
   useState(new Date()); 
 
 /* The `useEffect` hook is used to perform side effects in functional components. In this case, it is
- used to fetch the nutrition data from the API when the component mounts. */
-  useEffect(() => {
+used to fetch the nutrition data from the API when the component mounts. */
+  useEffect(() => {   
     getNutrition();
   }, []);
  
