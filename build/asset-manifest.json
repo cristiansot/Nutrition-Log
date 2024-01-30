@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nutrition-Log/app/static/css/main.a83de98d.css",
+    "main.js": "/Nutrition-Log/app/static/js/main.8b6b96fd.js",
+    "index.html": "/Nutrition-Log/app/index.html",
+    "main.a83de98d.css.map": "/Nutrition-Log/app/static/css/main.a83de98d.css.map",
+    "main.8b6b96fd.js.map": "/Nutrition-Log/app/static/js/main.8b6b96fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83de98d.css",
+    "static/js/main.8b6b96fd.js"
+  ]
+}
